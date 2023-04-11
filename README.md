@@ -1,19 +1,16 @@
-### Hi 👋, I'm sepide soleimani  
+### Hi 👋, I'm Salar MolaGholaMaeli  
 <div align="center">
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" style="width: 100%" />
 </div>  
   
 
-### ***<div align="center">I am a Front-END developer from Iran🥰</div>***  
+### ***<div align="center">I am a Front-END developer from Tehran-Iran🥰</div>***  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning React & Next  
   
 
-- 📚  I have a B.A in Software  
-  
-
-- 💬 Ask me about React JS,Javascript,Html.Css  
+- 💬 Ask me about React JS,Javascript,Html,Css,SEO  
   
 
 - ⚡ Fun fact I work hard  
@@ -56,11 +53,14 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/sepisol" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://instagram.com/salargholami73" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png alt=github  style="margin-bottom: 5px; width:5%;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/sepideh-soleimani" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png  alt=linkedin style="margin-bottom: 5px; width:5%;"" />
+</a>  
+<a href="" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png  alt=linkedin style="margin-bottom: 5px; width:5%;"" />
 </a>  
 </div>  
   
