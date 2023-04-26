@@ -1,6 +1,7 @@
-<div align="center">![ezgif com-video-to-gif](https://user-images.githubusercontent.com/105588751/234607733-5e315726-18da-4b7f-8d36-2c537387b6da.gif)</div>
+<h1 align="center">Hi 👋, this is Salar Gholami</h1>
 
-<h1 align="center">Hi 👋, I'm Salar Gholami</h1>
+<div><img align="center" width="100%" src="https://user-images.githubusercontent.com/105588751/234611068-6003b206-c13e-4264-a43e-bfba84fff427.gif">
+<br /><br /></div>
 <h3 align="center">I am a junior Front-END developer from Tehran-Iran🥰.</h3>
 
 <br /><br />
