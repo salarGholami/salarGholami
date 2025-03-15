@@ -15,11 +15,12 @@
 # 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a passionate Frontend Developer specializing in modern web technologies. With a strong foundation in React.js and Next.js, I create responsive and user-friendly web applications that deliver exceptional user experiences.
 
 <br>
+
 ### What I'm Up To
 
 - 🔭 Currently working on advancing my frontend development skills
